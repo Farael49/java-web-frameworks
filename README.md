@@ -21,11 +21,11 @@ Mandatory Comparison Table :
 - Performance : 
   - Startup speed
   - Startup RAM
--Hello World-
-  - Under load throughput 
-  - Under load RAM
-  - Under load GC behaviour 
--Real World/With DB interactions-
-  - Under load throughput 
-  - Under load RAM
-  - Under load GC behaviour 
+  - Hello World
+    - Under load throughput 
+    - Under load RAM
+    - Under load GC behaviour 
+  - Real World/With DB interactions
+    - Under load throughput 
+    - Under load RAM
+    - Under load GC behaviour 
