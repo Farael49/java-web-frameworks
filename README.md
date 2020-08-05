@@ -23,9 +23,11 @@ Mandatory Comparison Table :
   - Startup RAM
   - Hello World
     - Under load throughput 
+    - Under load percentiles
     - Under load RAM
     - Under load GC behaviour 
   - Real World/With DB interactions
     - Under load throughput 
+    - Under load percentiles
     - Under load RAM
     - Under load GC behaviour 
