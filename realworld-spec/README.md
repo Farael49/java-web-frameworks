@@ -1,5 +1,5 @@
 # RealWorld API Spec
-
+https://github.com/gothinkster/realworld
 ## Running API tests locally
 
 To locally run the provided Postman collection against your backend, execute:
