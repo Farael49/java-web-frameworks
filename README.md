@@ -26,7 +26,7 @@ Mandatory Comparison Table :
     - Under load percentiles
     - Under load RAM
     - Under load GC behaviour 
-  - Real World/With DB interactions
+  - Real World/With DB interactions based from https://github.com/gothinkster/realworld
     - Under load throughput 
     - Under load percentiles
     - Under load RAM
