@@ -15,7 +15,7 @@
 
 	<properties>
 		<java.version>14</java.version>
-		<io.jsonwebtoken.version>0.11.5</io.jsonwebtoken.version>
+		<io.jsonwebtoken.version>0.12.1</io.jsonwebtoken.version>
 		<javax.validation.version>2.0.1.Final</javax.validation.version>
 	</properties>
 
